@@ -1,0 +1,3 @@
+Estupendo dï¿½a para estudiar Python 
+ Esta línea ha sido incluida desde el exterior 
+ siempre es una buena ocasiÃ³n para estudiar Python
